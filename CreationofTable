@@ -1,0 +1,11 @@
+CREATE EXTERNAL TABLE IF NOT EXISTS stock(
+  symbol string,
+	dates int,
+	open float,
+	close float,
+	high float,
+	low float,
+	volume int)
+ROW FORMAT DELIMITED 
+FIELDS TERMINATED BY ","
+LOCATION "/tmp/stockanalysis/tables/FILENAME";
