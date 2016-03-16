@@ -1,0 +1,8 @@
+select stock.symbol, stock.date, stock.open, stock.high, stock.low, stock.close, stock.volume,
+(((stock.close-stock.open)/stock.open)*100) as chg,
+(stock.close-5.00) as adj1,
+(stock.close*0.50) as adj2,
+(stock.close*0.33) as adj3,
+((stock.open+stock.close)*0.5) as avgstockval,
+(stock.high/((stock.open+stock.close)*0.5)) as turboverratio
+from stock;
