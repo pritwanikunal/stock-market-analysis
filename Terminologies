@@ -1,0 +1,37 @@
+ 
+Historical stock data analysis:
+Business forecasting by its very nature uses historical data to forecast future performance of the company. 
+adjusted closing prices :
+When trading is done for the day on a recognized exchange, all stocks are priced at close. The price that is quoted at the end of the trading day is the price of the last lot of stock that was traded for the day. This is called a stock's closing price. The final stock price that is quoted can be used by investors to compare a stock's performance over a period of time. This period is usually from one trading day to another.
+During the course of a trading day, many things can happen to affect a stock's price. Along with good and bad news relating to the operations of a company, any sort of distribution that is made to investors will also affect stock price. These distributions can include cash dividends, stock dividends and stock splits.
+When distributions are made, the adjusted closing price calculations are quite simple. For cash dividends, the value of the dividend is deducted from the last closing sale price of the stock. For example, let's assume that the closing price for one share of SG Corp. is $20 on Thursday. After close on Thursday, SG Corp. announces a dividend distribution of $1.50 per share. The adjusted closing price for the stock would then be $18.50 ($20-$1.50).
+If SG Corp. announces a 2:1 stock dividend instead of a cash dividend, the adjusted closing price calculation will change. A 2:1 stock dividend means that for every share an investor owns, he or she will receive two more shares. In this case, the adjusted closing price calculation will be $20*(1/(2+1)). This will give you a price of $6.67, rounded to the nearest penny.
+If SGCorp. announces a 2:1 stock split, investors will receive an extra share for every share they already own. This time the calculation will be $20*(1/(1x2)), resulting in an adjusted closing price of $10.
+We have examined the simplest and most common corporate actions that can affect a stock's closing price. However, if a more complicated action, such as a rights offering, is announced, the adjusted closing price calculation can become quite confusing. Historical price services provided by financial sites charging money for this kind of information, such as Yahoo! Finance eliminate the confusion by calculating adjusted closing prices for investors.
+Source: http://www.investopedia.com/ask/answers/06/adjustedclosingprice.asp#ixzz42x53Ojv3 
+
+
+CHANGE OR PRICE CHANGE:
+A price change is the difference in the cost of an asset or security from one period to another. While it can be computed for any length of time, the most commonly cited price change in the financial media is the "daily price change", which is the change in the price of a stock or security from the previous trading day's close to the current day's close. Price change over a period of time such as year-to-date or past 12 months are also commonly used time periods, and is generally computed as a percentage change. 
+Source:  http://www.investopedia.com/terms/p/price-change.asp#ixzz42x6wFcvs 
+
+average stock value:
+The average value of stock can be calculated of a day or a financial year, calculated by (adding together the values of the stock at the beginning and end of the year or open and close value of a day) and dividing by two.
+Source: http://www.investopedia.com/terms/a/averagedailytradingvolume.asp
+
+Change/ Price Change:
+Change=(((closing price – opening price)/ opening price)*100)
+Adjusted Closing Price(ACP): It accounts for all the corporate actions such stock splits, dividends/ destributions and offerings.
+Three ways to calculate it:
+ACP=(closing price - 5.00); “where 5 is the dividend distribution.”(When company offers a cash dividend)
+ACP : (closing price *(1/(1/2))); (When company offers Stock Split )
+ACP : (closing price*(1/(2+1))); (When company offers stock dividend instead of a cash dividend)
+Average Stock Value(ASV):
+ASV : ((opening price + closing price)*0.5);
+
+
+
+
+
+
+
