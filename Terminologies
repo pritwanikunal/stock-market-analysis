@@ -21,11 +21,13 @@ Source: http://www.investopedia.com/terms/a/averagedailytradingvolume.asp
 
 Change/ Price Change:
 Change=(((closing price – opening price)/ opening price)*100)
+
 Adjusted Closing Price(ACP): It accounts for all the corporate actions such stock splits, dividends/ destributions and offerings.
 Three ways to calculate it:
 ACP=(closing price - 5.00); “where 5 is the dividend distribution.”(When company offers a cash dividend)
 ACP : (closing price *(1/(1/2))); (When company offers Stock Split )
 ACP : (closing price*(1/(2+1))); (When company offers stock dividend instead of a cash dividend)
+
 Average Stock Value(ASV):
 ASV : ((opening price + closing price)*0.5);
 
